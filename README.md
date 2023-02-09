@@ -1,5 +1,5 @@
 # Mini-football
-[__CONTRIBUER__](CONTRIBUTE.md)   [__PROPOSEZ VOS IDEES__](IDEES.md)
+__[CONTRIBUER](CONTRIBUTE.md) | [PROPOSEZ VOS IDEES](IDEES.md)__
 
 ![icone](src/icone.png)
 
